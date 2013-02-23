@@ -1,0 +1,15 @@
+{
+  "name": "lcm",
+  "repo": "KenanY/lcm",
+  "description": "Least common multiple component",
+  "version": "1.0.0",
+  "keywords": ["math"],
+  "dependencies": {
+    "KenanY/gcd": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
