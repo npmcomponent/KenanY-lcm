@@ -1,6 +1,6 @@
 # lcm
 
-Least common multiple component.
+Least common multiple [component](https://github.com/component).
 
 ## Installation
 
