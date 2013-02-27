@@ -1,5 +1,7 @@
 # lcm
 
+[![Dependency Status](https://gemnasium.com/KenanY/lcm.png)](https://gemnasium.com/KenanY/lcm)
+
 Least common multiple [component](https://github.com/component).
 
 ## Installation
