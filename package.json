@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Least common multiple component",
   "dependencies": {
-    "gcd": "*"
+    "gcd-component": "~1.0.0"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "~1.9.0",
+    "should": "~1.2.0"
   },
   "component": {
     "scripts": {

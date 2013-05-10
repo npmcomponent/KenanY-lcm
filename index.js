@@ -1,4 +1,10 @@
-var gcd = require('gcd');
+// https://github.com/component/component/issues/212
+var gcd;
+try {
+  gcd = require('gcd');
+} catch(e) {
+  gcd = require('gcd-component');
+}
 
 /**
  * Calculate the least common multiple amongst two integers.
