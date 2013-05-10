@@ -1,18 +1,10 @@
 {
-  "name": "lcm-component",
-  "version": "1.0.0",
-  "description": "Least common multiple component",
   "dependencies": {
     "gcd-component": "~1.0.0"
   },
   "devDependencies": {
     "mocha": "~1.9.0",
     "should": "~1.2.0"
-  },
-  "component": {
-    "scripts": {
-      "lcm/index.js": "index.js"
-    }
   },
   "private": true
 }

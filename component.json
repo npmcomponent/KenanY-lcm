@@ -2,7 +2,7 @@
   "name": "lcm",
   "repo": "KenanY/lcm",
   "description": "Least common multiple component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["math"],
   "dependencies": {
     "KenanY/gcd": "*"
