@@ -12,9 +12,9 @@ $ component install KenanY/lcm
 
 ## API
 
-### lcm(a, b)
+### lcm(x, y)
 
-Calculate the least common multiple amongst `a` and `b`.
+Calculate the least common multiple amongst `x` and `y`.
 
 ``` javascript
 lcm(12, 80);

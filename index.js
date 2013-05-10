@@ -9,11 +9,11 @@ try {
 /**
  * Calculate the least common multiple amongst two integers.
  *
- * @param {Number} number a
- * @param {Number} number b
- * @return {Number} least common multiple for integers a, b
+ * @param {Number} number x
+ * @param {Number} number y
+ * @return {Number} least common multiple for integers x and y
  * @api public
  */
-module.exports = function(num1, num2) {
-  return Math.abs(num1 * num2) / gcd(num1, num2);
+module.exports = function(x, y) {
+  return Math.abs(x * y) / gcd(x, y);
 };
