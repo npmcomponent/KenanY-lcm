@@ -6,7 +6,7 @@ Least common multiple [component](https://github.com/component).
 
 ## Installation
 
-``` shell
+``` bash
 $ component install KenanY/lcm
 ```
 
@@ -23,7 +23,7 @@ lcm(12, 80);
 
 ## Development
 
-``` shell
+``` bash
 $ npm install
 $ make
 ```
