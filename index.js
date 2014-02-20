@@ -1,7 +1,7 @@
 // https://github.com/component/component/issues/212
 var gcd;
 try {
-  gcd = require('gcd');
+  gcd = require('KenanY-gcd');
 } catch(e) {
   gcd = require('gcd-component');
 }
